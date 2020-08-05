@@ -6,9 +6,10 @@ interface IndentProps {
   level: number;
   isStart: boolean[];
   isEnd: boolean[];
+  width: number;
 }
 
-const Indent: React.FC<IndentProps> = ({ prefixCls, level, isStart, isEnd }) => {
+const Indent: React.FC<IndentProps> = ({ prefixCls, level, isStart, isEnd, width }) => {
   if (!level) {
     return null;
   }
@@ -23,6 +24,9 @@ const Indent: React.FC<IndentProps> = ({ prefixCls, level, isStart, isEnd }) => 
           [`${baseClassName}-start`]: isStart[i + 1],
           [`${baseClassName}-end`]: isEnd[i + 1],
         })}
+        style={{
+          width
+        }}
       />,
     );
   }
