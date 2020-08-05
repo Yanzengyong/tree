@@ -50,6 +50,7 @@ exports[`TreeNode Props className 1`] = `
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start"
+              style="width:24px"
             />
           </span>
           <span
@@ -78,9 +79,11 @@ exports[`TreeNode Props className 1`] = `
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start"
+              style="width:24px"
             />
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -109,6 +112,7 @@ exports[`TreeNode Props className 1`] = `
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -352,6 +356,7 @@ exports[`TreeNode Props data and aria props renders aria attributes on li 1`] = 
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start"
+              style="width:24px"
             />
           </span>
           <span
@@ -381,9 +386,11 @@ exports[`TreeNode Props data and aria props renders aria attributes on li 1`] = 
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start"
+              style="width:24px"
             />
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -413,6 +420,7 @@ exports[`TreeNode Props data and aria props renders aria attributes on li 1`] = 
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -511,6 +519,7 @@ exports[`TreeNode Props data and aria props renders data attributes on li 1`] = 
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start"
+              style="width:24px"
             />
           </span>
           <span
@@ -540,9 +549,11 @@ exports[`TreeNode Props data and aria props renders data attributes on li 1`] = 
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start"
+              style="width:24px"
             />
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -572,6 +583,7 @@ exports[`TreeNode Props data and aria props renders data attributes on li 1`] = 
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -665,6 +677,7 @@ exports[`TreeNode Props isLeaf 1`] = `
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -737,6 +750,7 @@ exports[`TreeNode Props isLeaf 2`] = `
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
@@ -812,6 +826,7 @@ exports[`TreeNode Props isLeaf 3`] = `
           >
             <span
               class="rc-tree-indent-unit rc-tree-indent-unit-start rc-tree-indent-unit-end"
+              style="width:24px"
             />
           </span>
           <span
